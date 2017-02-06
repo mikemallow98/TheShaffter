@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "843579429545",
+    "firebase_url": "https://dan-schaffer.firebaseio.com",
+    "project_id": "dan-schaffer",
+    "storage_bucket": "dan-schaffer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843579429545:android:ee8845fb52b41de6",
+        "android_client_info": {
+          "package_name": "com.mallow.michael.danschaffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843579429545-du9qkip078r7gm91kc8adbmsc2tn5848.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mallow.michael.danschaffer",
+            "certificate_hash": "A499355F8D07A43C43315B14DA1B5CCEEAE8952C"
+          }
+        },
+        {
+          "client_id": "843579429545-u39n1ouhgujtkfmfo29g9ibesh03vnhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZGcPbYcpCJrhWOqEVG8tMGxagF5WQW_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
