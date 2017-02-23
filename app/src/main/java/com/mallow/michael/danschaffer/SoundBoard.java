@@ -35,14 +35,15 @@ public class SoundBoard extends AppCompatActivity implements OnClickListener{
                 break;
             case R.id.trainsButton:
                 player = MediaPlayer.create(SoundBoard.this, R.raw.train);
-
+                break;
+            default:
+                break;
         }
-        player.prepareAsync();
+        //player.prepareAsync();
         player.start();
         while(player.isPlaying()) {
             changeNonClick();
         }
-
         player.stop();
         player = null;
         if(player == null) {
